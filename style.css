@@ -1,0 +1,55 @@
+/* Comentario */
+
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	text-align: justify;
+	color: #000000;
+	background-image: url(fondo.jpg);
+}
+
+.clase-nueva {
+	color: blue;
+	font-size: 1.7em;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #02777D;
+}
+
+#cnuevo{
+	color: #209180;
+	font-size: 1.5em;
+} 
+
+.informaciones {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+strong {
+	color: #135E5E;
+}
+
+.principal {
+	text-align: center;
+	color: #303841;
+}
+
+.contenedor-gris{
+	background-color: #BCF3F3;
+	width: 200px; /*ancho*/
+	height: 150px; /*alto*/
+	padding: 25px; /*margen interno*/
+	margin: 15px;
+	border: 10px solid #4165E0;
+	border-radius: 50px;
+	text-align: center;
+	position: center;
+	margin-left: 500px;
+}
+
+.choque {
+	color: #17AC13;
+	font-size: 1.9em;
+}
